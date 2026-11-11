@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hanzala Bhoraniya 👋
 
-<!--
-**HanzalaBhoraniya/HanzalaBhoraniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer and B.Sc. IT student based in Mumbai, India. Focused on architecting scalable web applications and mastering Data Structures & Algorithms in modern C++.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- 🛠️ **Production:** Built and deployed [Feedback SaaS](https://feedback-app-tan-three.vercel.app) — a live B2B customer sentiment analytics platform.
+- ⚡ **DSA & Problem Solving:** Solving 450+ interview-grade problems via Striver's A2Z Sheet in modern C++ (STL).
+- 📦 **Exploration:** Deepening knowledge in database optimizations, REST API design, and system architecture.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | C++, JavaScript (ES6+), SQL |
+| **Frontend** | React.js, Vite, Responsive CSS, HTML5 |
+| **Backend & APIs** | Node.js, Express.js, REST APIs, JWT Authentication |
+| **Databases & Cloud** | PostgreSQL (Neon), Render, Vercel, Cloudinary |
+| **Developer Tools** | Git, GitHub, VS Code, Postman |
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/hanzalabhoraniya](https://linkedin.com/in/hanzalabhoraniya)
+- **Email:** [hanzala.bhoraniya.dev@gmail.com](mailto:hanzala.bhoraniya.dev@gmail.com)
