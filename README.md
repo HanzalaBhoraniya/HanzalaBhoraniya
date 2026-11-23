@@ -1,13 +1,13 @@
 # Hi, I'm Hanzala Bhoraniya 👋
 
-Full-Stack Developer and B.Sc. IT student based in Mumbai, India. Focused on architecting scalable web applications and mastering Data Structures & Algorithms in modern C++.
+Full-Stack Developer and B.Sc. IT student based in Mumbai, India. Focused on architecting scalable web applications, real-time multiplayer systems, and mastering Data Structures & Algorithms in modern C++.
 
 ---
 
-### 🚀 What I'm Working On
-- 🛠️ **Production:** Built and deployed [Feedback SaaS](https://feedback-app-tan-three.vercel.app) — a live B2B customer sentiment analytics platform.
+### 🚀 Featured Projects & Focus
+- 🎮 **Real-Time Multiplayer:** Built and deployed [ZMath](https://zmath.onrender.com) ([Source](https://github.com/HanzalaBhoraniya/zMath)) — a WebSocket-powered arcade math game where players scan a QR code to turn smartphones into wireless haptic controllers on a shared PC screen.
+- 🛠️ **B2B SaaS:** Built and deployed [Feedback SaaS](https://feedback-app-tan-three.vercel.app) ([Source](https://github.com/HanzalaBhoraniya/Feedback_App)) — a live customer sentiment analytics platform with NPS tracking and automated email workflows.
 - ⚡ **DSA & Problem Solving:** Solving 450+ interview-grade problems via Striver's A2Z Sheet in modern C++ (STL).
-- 📦 **Exploration:** Deepening knowledge in database optimizations, REST API design, and system architecture.
 
 ---
 
@@ -16,8 +16,8 @@ Full-Stack Developer and B.Sc. IT student based in Mumbai, India. Focused on arc
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | C++, JavaScript (ES6+), SQL |
-| **Frontend** | React.js, Vite, Responsive CSS, HTML5 |
-| **Backend & APIs** | Node.js, Express.js, REST APIs, JWT Authentication |
+| **Frontend** | React.js, Vite, HTML5 Canvas, Responsive CSS |
+| **Backend & Real-Time** | Node.js, Express.js, Socket.IO (WebSockets), REST APIs, JWT Auth |
 | **Databases & Cloud** | PostgreSQL (Neon), Render, Vercel, Cloudinary |
 | **Developer Tools** | Git, GitHub, VS Code, Postman |
 
